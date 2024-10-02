@@ -9,8 +9,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ### 🚀 Projects
 - [Photo App](https://github.com/0Jsnipes/photoapp) - A photo-sharing app using Cloudinary for media storage and React for the frontend.
-### 🔧 Currently Working On
-- Building a mobile mechanic appointment system using React Native
+- [Animal-portal](https://github.com/0Jsnipes/animal-portal)-A portal app to message your doctor and see notes from past visits, and when vaccines are due.
+- ### 🔧 Currently Working On
+- Building a animal portal app similar to our doctor portal apps using React Native
 - Improving my backend skills with Node.js and MongoDB
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/0jsnipes/)
