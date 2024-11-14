@@ -7,6 +7,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
+[![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)](https://auth0.com/)
+
 ### 🚀 Projects
 - [Photo App](https://github.com/0Jsnipes/photoapp) - A photo-sharing app using Cloudinary for media storage and React for the frontend.
 - [Animal-portal](https://github.com/0Jsnipes/animal-portal)-A portal app to message your doctor and see notes from past visits, and when vaccines are due.
