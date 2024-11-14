@@ -13,6 +13,7 @@
 - ### 🔧 Currently Working On
 - Building a animal portal app similar to our doctor portal apps using React Native
 - Improving my backend skills with Node.js and MongoDB
+- Improving my frontend tech stack with GSAP, three.js, and CSStailwind
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/0jsnipes/)
 - [Email](jared.c.snipes@gmail.com)
