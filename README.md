@@ -12,8 +12,8 @@
 [![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)](https://auth0.com/)
 
 ### 🚀 Projects
-- [Photo App](https://github.com/0Jsnipes/photoapp) - A photo-sharing app using Cloudinary for media storage and React for the frontend.
-- [Animal-portal](https://github.com/0Jsnipes/animal-portal)-A portal app to message your doctor and see notes from past visits, and when vaccines are due.
+- [iPhone website clone]([https://github.com/0Jsnipes/iphone_website_react](https://iphone.0jsnipes.com/)) - A clone of Apple's iconic iphone 15 website 
+- [Budget Tracker]([https://github.com/0Jsnipes/budget-tracker](https://budget-tracker.0jsnipes.com/))-A budget tacking app that you can input monthly income and see how much you have left to save.
 - ### 🔧 Currently Working On
 - Building a animal portal app similar to our doctor portal apps using React Native
 - Improving my backend skills with Node.js and MongoDB
