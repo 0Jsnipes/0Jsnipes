@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jared
 - 🧑‍💻 Software Engineer | Web Developer
-- 🎓 BS in Computer Science & Fullstack Web Development Bootcamp Graduate
+- 🎓 Fullstack Web Development Bootcamp Graduate
 - 🚀 Passionate about building web apps and learning new technologies
 ### Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -12,8 +12,8 @@
 [![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)](https://auth0.com/)
 
 ### 🚀 Projects
-- [iPhone website clone](https://iphone.0jsnipes.com/) - A clone of Apple's iconic iphone 15 website 
-- [Budget Tracker](https://budget-tracker.0jsnipes.com/)-A budget tacking app that you can input monthly income and see how much you have left to save.
+- [iPhone website clone](https://iphone.0jsnipes.com/) - A clone of Apple's iconic iPhone 15 website 
+- [Budget Tracker](https://budget-tracker.0jsnipes.com/)-A budget tracking app to input monthly income and see how much you have left to save.
 - ### 🔧 Currently Working On
 - Building a animal portal app similar to our doctor portal apps using React Native
 - Improving my backend skills with Node.js and MongoDB
